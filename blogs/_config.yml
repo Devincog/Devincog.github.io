@@ -25,7 +25,7 @@ name: Devincog7
 email: devincog797@gmail.com
 menu:
   - title: Home
-    url: /blogs
+    url: /
   - title: About
     url: /about
   - title: Contact
